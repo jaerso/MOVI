@@ -117,7 +117,7 @@ else{*/
 					include_once "content/Galerie.php";
                 }
                 elseif($_GET['page']=='category'){
-					include_once "content/Kategorie.php";
+					include_once "content/Kategorien.php";
 				}
 				elseif($_GET['page']=='profile'){
 					include_once "content/Profil.php";
