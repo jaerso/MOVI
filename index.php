@@ -29,7 +29,7 @@
 					</ul>
 					
 
-<ul class="nav navbar-nav navbar-right">
+<!--<ul class="nav navbar-nav navbar-right">
 <li>
 <?php 
 
@@ -51,7 +51,7 @@ else{*/
 
 
 <button id="button-login" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-in"></span> Login</button>
- </ul>
+ </ul>-->
 
 <?php
 //}
